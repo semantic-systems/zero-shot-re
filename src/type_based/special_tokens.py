@@ -1,0 +1,6 @@
+
+
+
+HEAD_TAIL_TOKEN = '[HT]'
+DESC_TOKEN = '[DESC]'
+NO_TOKEN = 'Any'
